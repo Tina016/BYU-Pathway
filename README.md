@@ -1,7 +1,6 @@
 # BYU-Pathway
 Repository for graduation projects
 
-"""
 #WEEK 1
 
 #1st Code Activity PC 103 - Introduction to Programming
@@ -36,7 +35,6 @@ Purpose: Practice using mathematical expressions
 Author: Martina Toebe
 Purpose: Practice using mathematical expressions
 
-"""
 #WEEK 3
 
 #Activity 1 - Comparing Strings
@@ -60,7 +58,6 @@ F < 60
 Author: Martina Toebe
 Purpose: Write a program using decisions to accomplish a meaningful task.
 
-"""
 #WEEK 4
 
 #Activity 1 - Loops
@@ -75,7 +72,6 @@ Purpose: Write a program that determines the letter grade for a course according
 Author: Martina Toebe
 Purpose: Write a program that uses loops to accomplish a meaningful task.
 
-"""
 #WEEK 5
 
 #Team Activity - Lists of Numbers
@@ -96,14 +92,13 @@ Assigment:
 4 - Compute the total (only needed for the final project deliverable)
 5 - Quit
 
-"""
 #WEEK 6
 
 #Team Activity - Human Resources System
 Author: Martina Toebe
 Purpose: Write a program to iterate through each line of this file, gather the information from each field and display or take certain actions depending on the data. 
 
-"""
+#Project - 
 
 
 

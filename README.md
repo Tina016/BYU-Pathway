@@ -16,7 +16,6 @@ Author: Martina Toebe
 Purpose: For this assignment, you will implement a program that asks the user for a series of words and then displays the story 
 with the user's words inserted into the appropriate places.
 
-"""
 #WEEK 2
 
 #Activity 1: Using Different Data Types

@@ -1,8 +1,8 @@
-#Week 4 | Activity 1 - Loops
+#Week 4 | Project: Word Puzzle
 """
 Author: Martina Toebe
 
-Purpose: Demonstrate your understanding of loops by completing the following individual checkpoint assignment.
+Purpose: Write a program that uses loops to accomplish a meaningful task.
 
 """
 

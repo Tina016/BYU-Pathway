@@ -12,7 +12,7 @@ hr_file = open("hr_system.txt")
 with open("hr_system.txt") as hr_file:
     for line in hr_file:
         line = line.strip()
-        break_line = line.split(" ")
+        break_line = line.split()
 
         name = break_line[0]
         id_number = break_line[1]
